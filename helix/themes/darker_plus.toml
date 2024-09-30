@@ -9,7 +9,11 @@
 
 "keyword" = { fg = "blue2", bg = "blue2_dimmed" }
 "keyword.directive" = { fg = "blue2" }
-"keyword.control" = { bg = "red", fg = "dark_gray2" }
+"keyword.control.return" = { bg = "red", fg = "dark_gray2" }
+"keyword.control.exception" = { bg = "red", fg = "dark_gray2" }
+"keyword.control.conditional" = { bg = "gold", fg = "dark_gray2" }
+"keyword.control.import" = { fg = "gold2" }
+"keyword.control" = { bg = "dark_green2", fg = "white" }
 "label" = { fg = "blue2" }
 "tag" = "blue2"
 
