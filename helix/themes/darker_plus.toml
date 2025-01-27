@@ -34,9 +34,9 @@
 "function.macro" = { fg = "blue2" }
 "attribute" = { fg = "fn_declaration" }
 
-"comment" = { fg = "dark_green" }
+"comment" = { fg = "dark_gray" }
 
-"string" = { fg = "special" }
+"string" = { fg = "dark_green" }
 "constant.character" = { fg = "orange" }
 "string.regexp" = { fg = "gold" }
 "constant.numeric" = { fg = "pale_green" }
