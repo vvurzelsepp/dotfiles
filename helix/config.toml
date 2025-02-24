@@ -27,4 +27,6 @@ skip-levels = 1
 C-j = ["extend_to_line_bounds", "delete_selection", "paste_after"]
 C-k = ["extend_to_line_bounds", "delete_selection", "move_line_up", "paste_before"]
 tab = ["rotate_view"]
+left =  { f = ["goto_prev_function"], t = ["goto_prev_class"], d = ["goto_prev_diag"] }
+right = { f = ["goto_next_function"], t = ["goto_next_class"], d = ["goto_next_diag"] }
 
