@@ -24,7 +24,7 @@
 "punctuation.delimiter" = { fg = "text" }
 
 "variable" = { fg = "light-gray" }
-"variable.parameter" = { fg = "variable" }
+"variable.parameter" = { fg = "variable", modifiers = ["italic"] }
 "variable.builtin" = { fg = "blue2" }
 "constant" = { fg = "constant" }
 "constant.builtin" = { fg = "blue2" }
